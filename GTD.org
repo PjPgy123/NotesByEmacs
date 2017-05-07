@@ -1,0 +1,6 @@
+* 工作安排
+
+** TODO [#B] nodejs-rpel windows 使用不了
+
+** TODO [#B] 学习 load load-file load-path 关系， 视屏Day3 25分钟 Day1开始
+
